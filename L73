@@ -1,0 +1,5 @@
+def letter(word):
+    if word[0] == "k":
+        print("True")
+    else:
+        print("False")
